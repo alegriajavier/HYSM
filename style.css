@@ -38,6 +38,14 @@ header{
 }
 /* padding 2 values top-bottom and left-right*/
 
+header img{
+  max-width: 100%;
+    width: 90px;
+    height:auto ;
+}
+
+
+
 .logo{
     color: var(--main-color);
     font-weight: 600;
